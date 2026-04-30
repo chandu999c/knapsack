@@ -1,4 +1,17 @@
-Fractional Knapsack Visualizer
+<h1 align="center">Fractional Knapsack Visualizer</h1>
+
+TEAM MEMEBERS
+
+1)K.C.Bharath -- AP24110011356
+
+2)E.Akhil -- AP24110011277
+
+3)M.Teja -- AP24110011520
+
+4)P.purna chandra rao -- AP24110011303
+
+
+
 
 A web-based interactive visualization tool for the Fractional Knapsack Algorithm, demonstrating greedy selection based on value-to-weight ratio with step-by-step execution.
 
