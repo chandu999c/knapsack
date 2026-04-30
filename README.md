@@ -12,7 +12,7 @@ TEAM MEMEBERS
 
 
 
-
+<h1>description</h1>
 A web-based interactive visualization tool for the Fractional Knapsack Algorithm, demonstrating greedy selection based on value-to-weight ratio with step-by-step execution.
 
 🚀 Features
